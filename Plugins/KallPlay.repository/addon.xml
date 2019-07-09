@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="KallPay.repository" name="[B][COLOR gold]Repositorio[/COLOR]: [COLOR blue]KallPay[/COLOR] [COLOR red]IPTV[/COLOR][/B]" version="0.0.7" provider-name="Team Ezequiel KelTec">
+	<extension point="xbmc.addon.repository" name="KallPay IPTV Repo">
+		<info compressed="false">https://raw.githubusercontent.com/kdr-design/Repositorio-Kall-Play/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/kdr-design/Repositorio-Kall-Play/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kdr-design/Repositorio-Kall-Play/master/Plugins</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio Oficial KallPay IPTV</summary>
+		<description>Repositorio Oficial KallPay IPTV - Proibido reproducao //Grupo Facebook KallPay IPTV https://www.facebook.com/groups/KallPay/</description>
+		<platform>all</platform>
+	</extension>
+</addon>
